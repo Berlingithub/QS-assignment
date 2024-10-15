@@ -37,7 +37,7 @@ Users should also be able to sort the displayed tickets in two ways:
 
 ## Live Demo
 
-Experience the application [here](https://janhavi-quicksell-assignment.vercel.app/)
+Experience the application [here](https://qs-assignment.onrender.com/)
 
 ## Repository
 
