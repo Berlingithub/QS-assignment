@@ -41,7 +41,7 @@ Experience the application [here](https://janhavi-quicksell-assignment.vercel.ap
 
 ## Repository
 
-Find the source code on [GitHub](https://github.com/Berlingithub/QuiceSell_assignment/tree/my-new-branch).
+Find the source code on [GitHub](https://github.com/Berlingithub/QS-assignment).
 
 ## Tech Stack
 
